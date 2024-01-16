@@ -12,12 +12,26 @@ comments: true
     **比赛时间** : 2024年03月01日 09:00 - 2024年03月31日 18:00  
     **其他说明** : 比赛时间2024年3月  
     
+??? Abstract "SICTF Round#3"  
+    **比赛名称** : [SICTF Round#3](http://ctf.shumunet.cn/)  
+    **比赛类型** : 团队赛|1-3人  
+    **报名时间** : 2024年01月11日 14:00 - 2024年02月18日 09:00  
+    **比赛时间** : 2024年02月16日 09:00 - 2024年02月18日 18:00  
+    **其他说明** : 比赛QQ群：737732413  本次比赛采用CTF赛制，题目难度两级分化，无论是刚刚入门的萌新还是轻车熟路的大神，都可以快速找到属于你的比赛乐趣哦~  
+    
 ??? Abstract "第二届N1CTF Junior"  
     **比赛名称** : [第二届N1CTF Junior](https://ctf.junior.nu1l.com/)  
     **比赛类型** : 个人赛  
     **报名时间** : 2023年12月25日 00:00 - 2024年02月03日 00:00  
     **比赛时间** : 2024年02月03日 09:00 - 2024年02月04日 18:00  
     **其他说明** : N1CTFJunior是Nu1L Team组织的官方纳新  赛事旨在选拔年轻优秀人才加入Nu1LTeam  QQ群:180885587  
+    
+??? Abstract "第七届西湖论剑网络安全技能大赛初赛"  
+    **比赛名称** : [第七届西湖论剑网络安全技能大赛初赛](https://game.gcsis.cn/)  
+    **比赛类型** : 团队赛|4-8人  
+    **报名时间** : 2024年01月09日 00:00 - 2024年01月24日 18:00  
+    **比赛时间** : 2024年01月30日 10:00 - 2024年01月30日 18:00  
+    **其他说明** : QQ群：666010671 768342822    
     
 ??? Abstract "Real World CTF 6th"  
     **比赛名称** : [Real World CTF 6th](https://realworldctf.com/)  
@@ -26,19 +40,19 @@ comments: true
     **比赛时间** : 2024年01月26日 19:00 - 2024年01月28日 19:00  
     **其他说明** : Discord: https://discord.com/invite/8GNqypNaxB  
     
+??? Abstract "NSSCTF Round#17 Basic"  
+    **比赛名称** : [NSSCTF Round#17 Basic](https://www.nssctf.cn/contest/)  
+    **比赛类型** : 团队赛|1-3人  
+    **报名时间** : 2024年01月16日 00:00 - 2024年01月28日 17:30  
+    **比赛时间** : 2024年01月28日 14:00 - 2024年01月28日 17:30  
+    **其他说明** : QQ群：521330139  
+    
 ??? Abstract "Real World CTF 6th 体验赛"  
     **比赛名称** : [Real World CTF 6th 体验赛](https://be-a-rwctfer.realworldctf.com/)  
     **比赛类型** : 团队赛 | 邀请制  
     **报名时间** : 2023年12月28日 16:30 - 2024年01月17日 18:00  
     **比赛时间** : 2024年01月27日 10:00 - 2024年01月28日 10:00  
     **其他说明** : 选手交流群：612460086  
-    
-??? Abstract "第七届西湖论剑网络安全技能大赛初赛"  
-    **比赛名称** : [第七届西湖论剑网络安全技能大赛初赛](https://game.gcsis.cn/)  
-    **比赛类型** : 团队赛|4-8人  
-    **报名时间** : 2024年01月09日 00:00 - 2024年01月22日 18:00  
-    **比赛时间** : 2024年01月27日 10:00 - 2024年01月27日 18:00  
-    **其他说明** : QQ群：666010671 768342822    
     
 ??? Abstract "第二届数据安全大赛暨首届“数信杯”数据安全大赛"  
     **比赛名称** : [第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)  
@@ -54,46 +68,9 @@ comments: true
     **比赛时间** : 2024年01月20日 10:00 - 2024年01月22日 17:00  
     **其他说明** : 赛事QQ群：277328440  
     
-??? Abstract "第三届WEBSHELL伏魔挑战赛"  
-    **比赛名称** : [第三届WEBSHELL伏魔挑战赛](https://mp.weixin.qq.com/s/e8OE3rXyIqPkHrOHBDL5Kw)  
-    **比赛类型** : 个人赛 | 非CTF  
-    **报名时间** : 2023年12月29日 10:00 - 2024年01月17日 10:00  
-    **比赛时间** : 2024年01月10日 10:00 - 2024年01月17日 10:00  
-    **其他说明** :   
-    
-??? Abstract "第七届强网杯全国网络安全挑战赛决赛"  
-    **比赛名称** : [第七届强网杯全国网络安全挑战赛决赛](https://qiangwangbei.com/)  
-    **比赛类型** : 团队赛|1-4人  
-    **报名时间** : 2023年05月01日 00:00 - 2023年12月09日 00:00  
-    **比赛时间** : 2024年01月13日 09:00 - 2024年01月14日 16:00  
-    **其他说明** : QQ群：723023839  
-    
-??? Abstract "movectf 2024"  
-    **比赛名称** : [movectf 2024](https://movectf2024.movebit.xyz/)  
-    **比赛类型** : 个人赛 | WEB3  
-    **报名时间** : 2023年12月25日 00:00 - 2024年01月14日 09:00  
-    **比赛时间** : 2024年01月12日 09:00 - 2024年01月14日 09:00  
-    **其他说明** : 旗舰级 Move 安全竞赛，旨在吸引更多对   Move 语言和 Move 生态系统感兴趣的安全专业人士  和开发人员。  QQ学习交流群：163569170  
-    
-??? Abstract " NSSCTF Round#16 Basic"  
-    **比赛名称** : [ NSSCTF Round#16 Basic](https://www.nssctf.cn/contest)  
-    **比赛类型** : 团队赛|1-3人  
-    **报名时间** : 2024年01月04日 00:00 - 2024年01月13日 00:00  
-    **比赛时间** : 2024年01月13日 14:00 - 2024年01月13日 17:30  
-    **其他说明** : QQ群：521330139  
-    
 
 ## 国际赛事
 
-??? Abstract "[IrisCTF 2024](https://2024.irisc.tf/)"  
-    [![](https://ctftime.org/media/events/IrisCTF_Logo.png){ width="200" align=left }](https://2024.irisc.tf/)  
-    **比赛名称** : [IrisCTF 2024](https://2024.irisc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-01-06 08:00:00 - 2024-01-08 08:00:00 UTC+8  
-    **比赛权重** : 24.59  
-    **赛事主办** : IrisSec (https://ctftime.org/team/127034)  
-    **添加日历** : https://ctftime.org/event/2085.ics  
-    
 ??? Abstract "[Insomni'hack teaser 2024](https://insomnihack.ch/contests/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://insomnihack.ch/contests/)  
     **比赛名称** : [Insomni'hack teaser 2024](https://insomnihack.ch/contests/)  
@@ -138,6 +115,24 @@ comments: true
     **比赛权重** : 74.41  
     **赛事主办** : TetCTF (https://ctftime.org/team/71781)  
     **添加日历** : https://ctftime.org/event/2212.ics  
+    
+??? Abstract "[0xL4ugh CTF 2024](https://ctf.0xL4ugh.com/)"  
+    [![](https://ctftime.org/media/events/logo_94.png){ width="200" align=left }](https://ctf.0xL4ugh.com/)  
+    **比赛名称** : [0xL4ugh CTF 2024](https://ctf.0xL4ugh.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-02-02 21:00:00 - 2024-02-03 21:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
+    **添加日历** : https://ctftime.org/event/2216.ics  
+    
+??? Abstract "[DiceCTF 2024 Quals](https://ctf.dicega.ng/)"  
+    [![](https://ctftime.org/media/events/dicectf_2_1.png){ width="200" align=left }](https://ctf.dicega.ng/)  
+    **比赛名称** : [DiceCTF 2024 Quals](https://ctf.dicega.ng/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-02-03 05:00:00 - 2024-02-05 05:00:00 UTC+8  
+    **比赛权重** : 57.75  
+    **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
+    **添加日历** : https://ctftime.org/event/2217.ics  
     
 ??? Abstract "[ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ctf.t3n4ci0us.kr/)  
@@ -192,6 +187,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Braeker (https://ctftime.org/team/274910)  
     **添加日历** : https://ctftime.org/event/2181.ics  
+    
+??? Abstract "[bi0sCTF 2024](https://ctf.bi0s.in/)"  
+    [![](https://ctftime.org/media/events/Untitled-removebg-preview_1.png){ width="200" align=left }](https://ctf.bi0s.in/)  
+    **比赛名称** : [bi0sCTF 2024](https://ctf.bi0s.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-02-24 20:00:00 - 2024-02-26 08:00:00 UTC+8  
+    **比赛权重** : 79.83  
+    **赛事主办** : bi0s (https://ctftime.org/team/662)  
+    **添加日历** : https://ctftime.org/event/2117.ics  
     
 ??? Abstract "[osu!gaming CTF 2024](https://osugamingctf.lol/)"  
     [![](https://ctftime.org/media/events/unknown_1.png){ width="200" align=left }](https://osugamingctf.lol/)  
